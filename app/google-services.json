@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "514355875294",
+    "firebase_url": "https://dogypedia-97051.firebaseio.com",
+    "project_id": "dogypedia-97051",
+    "storage_bucket": "dogypedia-97051.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514355875294:android:69aed10f5ee52bc431e14f",
+        "android_client_info": {
+          "package_name": "com.easyshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514355875294-ujn86o2dpm9rh3e3q6tugvjeeu6k7gdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoG3Gbp-Lgy8oyRT6TtQa3CVmSaYFNc1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514355875294-ujn86o2dpm9rh3e3q6tugvjeeu6k7gdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
